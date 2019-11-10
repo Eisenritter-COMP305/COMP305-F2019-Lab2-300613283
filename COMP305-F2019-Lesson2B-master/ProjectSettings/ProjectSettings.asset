@@ -614,10 +614,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a5c83a61-e82c-4bec-9388-3f64e8e005b5
+  cloudProjectId: 5e35a35f-f786-46bc-8bf3-eeb599c7a2b5
   framebufferDepthMemorylessMode: 0
   projectName: COMP305-F2019-Lesson2B
-  organizationId: tom-tsiliopoulos
+  organizationId: comp305-game-programming-1
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
