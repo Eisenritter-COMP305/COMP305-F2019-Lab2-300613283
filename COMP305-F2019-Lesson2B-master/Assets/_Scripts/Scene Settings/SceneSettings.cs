@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿// Modified By: George Zhou
+// Student ID: 300613283
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +9,8 @@ using UnityEngine;
 [System.Serializable]
 public class SceneSettings:ScriptableObject
 {
-    [Header("Scene Configuration")]
+    [Header("Scene Configuration")] 
+    public Scene scene;
     public SoundClip activeSoundClip = SoundClip.NONE;
 
     [Header("Scoreboard Labels")]
